@@ -1,0 +1,1 @@
+Build -> Android_ASTC -> Install_BProject-Android-Shipping-arm64 ( USB - 디버그 [핸드폰{개발자 모드}이랑 컴퓨터 연결]) -> 인스톨 하는데 2분 정도 소모
